@@ -13,3 +13,14 @@
 - La idea Romantica?
 - Certificado ISO?
 - Reducción de Impuestos?
+
+
+# Vender Maquinas
+- Sistema completo
+- Logistica nos encargamos nosotros
+- Recibe un % de la venta del reciclaje
+- Vender un sistema entero con unas ganancias %
+- Mantemiento
+- Entrenamiento
+- Quien lo recoje?
+
