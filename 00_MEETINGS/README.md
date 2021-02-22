@@ -24,3 +24,17 @@
 - Entrenamiento
 - Quien lo recoje?
 
+# Cliente
+- Acopios de reciclaje
+
+# Proveedor
+- Oficinas
+- Centros comerciales
+
+
+
+# Image training and proccesing
+- [Guía principal](https://www.youtube.com/watch?v=KCzgR7eQ3PY)
+- https://docs.aws.amazon.com/sagemaker/latest/dg/image-classification.html
+- https://aws.amazon.com/es/blogs/machine-learning/classify-your-own-images-using-amazon-sagemaker/
+
